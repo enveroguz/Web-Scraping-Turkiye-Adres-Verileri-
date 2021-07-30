@@ -11,12 +11,10 @@ driver = webdriver.Chrome(executable_path=r"C:\\Chrome Driver\\chromedriver.exe"
 
 # Access to Website :
 
-driver.get('https://postakodu.ptt.gov.tr/adres/')
+driver.get('******')
 
 driver.maximize_window()
-
-# Bekleme Suresi tanimlama : 
-
+ 
 
 # Il Liste Uzunlugunun Bulunmasi :
 
