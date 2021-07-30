@@ -7,4 +7,3 @@ Python Selenium Kütüphanesi kullanılmıştır.
 Veri Çekme Hızı - Dakikada 400 Veri
 
 Sorularınız için lütfen : enveroguz_github@outlook.com
-
